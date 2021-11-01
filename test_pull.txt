@@ -1,2 +1,3 @@
 some test to be improved
 added by bee
+just to add some text to check reset func-ty
