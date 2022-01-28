@@ -1,3 +1,5 @@
 some test to be improved
 added by bee
 just to add some text to check reset func-ty
+
+info added at 12:17
